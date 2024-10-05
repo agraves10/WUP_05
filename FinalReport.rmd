@@ -65,7 +65,10 @@ fisher.test(table1)
 ```
 
 
-Three statistical tests were ran and each gave us a probability with the results from before with the grop of females and the likleyhood of them getting aids with a drug or placebo. the first test had a probability of0.00007686 the second tests results were 0.0001 and the third test had a probability of 0.0006596. The probabilities of te statsical diffrences between the female groups and the drug or placebo they tookthat would tell them if it would help prevent aids or not.
+Three statistical tests were ran and each gave us a probability with the results from before with the grop of females and the likleyhood of them getting aids with a drug or placebo. the first test had a probability of0.00007686 the second tests results were 0.0001 and the third test had a probability of 0.0006596. The probabilities of te statistical differences between the female groups and the drug or placebo they took that would tell them if it would help prevent aids or not.
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+I created a graph depicting the results from a group of only female participants, which indicated whether the drug administered helped in preventing AIDS. The bar graph revealed that the females who received the drug had a higher incidence of AIDS compared to those who received a placebo. In my numerical analysis, I found that the rate of AIDS among the drug recipients was 20% higher than among those who did not contract the disease. Additionally, I conducted three statistical analyses to determine the probability of a female contracting AIDS as a result of the drug used in the study.
